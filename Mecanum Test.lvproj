@@ -112,7 +112,7 @@ DirectoryIndex index.htm
 		<Item Name="Drive Code" Type="Folder">
 			<Item Name="Open.vi" Type="VI" URL="../Drive Code/Open.vi"/>
 			<Item Name="Drive.vi" Type="VI" URL="../Drive Code/Drive.vi"/>
-			<Item Name="Rotation.vi" Type="VI" URL="../Rotation.vi"/>
+			<Item Name="Rotation.vi" Type="VI" URL="../Drive Code/Rotation.vi"/>
 		</Item>
 		<Item Name="Support Code" Type="Folder">
 			<Item Name="Elapsed Times.vi" Type="VI" URL="../Elapsed Times.vi"/>
@@ -543,11 +543,11 @@ DirectoryIndex index.htm
 			<Item Name="Controller 2.vi" Type="VI" URL="../Controller 2.vi"/>
 			<Item Name="Drive 4.vi" Type="VI" URL="../Drive Code/Drive 4.vi"/>
 			<Item Name="Drive 6.vi" Type="VI" URL="../Drive Code/Drive 6.vi"/>
-			<Item Name="Proportional Control.vi" Type="VI" URL="../Proportional Control.vi"/>
 			<Item Name="niLvFpgaFormatErrorSource.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaFormatErrorSource.vi"/>
 			<Item Name="niLvFpgaWhatHappensToTopLevelVI.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaWhatHappensToTopLevelVI.ctl"/>
 			<Item Name="niFpgaNodeNameForErrorReporting.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/interface/common/niFpgaNodeNameForErrorReporting.ctl"/>
 			<Item Name="niLvFpgaAdjustHostInterfaceError.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaAdjustHostInterfaceError.vi"/>
+			<Item Name="Proportional Control.vi" Type="VI" URL="../Proportional Control.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
